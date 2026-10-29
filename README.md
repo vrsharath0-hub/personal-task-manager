@@ -6,7 +6,7 @@ A local task manager for keeping student work organized. Studylist uses Streamli
 
 - Add, edit, complete, reopen, and delete tasks
 - Track category, priority, due date, notes, and status
-- Filter by status, priority, and category; sort by due date, priority, or creation time
+- Filter by status, priority, and category; sort by due date, priority, status, category, or creation time
 - Dashboard with total, pending, in-progress, completed, and overdue counts
 - Overdue and upcoming deadlines highlighted in the task list
 - Local SQLite storage with per-user task isolation and hashed passwords
